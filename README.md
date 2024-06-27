@@ -179,7 +179,7 @@ This SDK provides support for tool use, aka function calling. More details can b
 
 ## AWS Bedrock
 
-This library also provides support for the [Anthropic Bedrock API](https://aws.amazon.com/bedrock/claude/) if you install this library with the `bedrock` extra, e.g. `pip install -U anthropic[bedrock]`.
+This library also provides support for the [Anthropic Bedrock API](https://aws.amazon.com/bedrock/claude/) if you install this library with the `bedrock` extra, e.g. `pip install -U anthropic-bedrock`.
 
 You can then import and instantiate a separate `AnthropicBedrock` class, the rest of the API is the same.
 
